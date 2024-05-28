@@ -4,7 +4,7 @@
 
 Born on August 4th, 2007, I am a freelance Penetration Tester with over 2 years of diverse experience in the cybersecurity field. My work is my passion, and I thrive on navigating challenging cybersecurity environments for my clients.
 
-![Cybersecurity](https://media1.tenor.com/m/qxgoeVscCNAAAAAd/corgi-computer.gif)
+![Cybersecurity](https://media1.tenor.com/m/lPNvyIdrVtAAAAAC/puppyhacker.gif)
 
 ## 🔍 Experience
 
@@ -37,6 +37,8 @@ I have been working on freelance projects for the past three years, focusing on:
 - Lua
 - PostgreSQL & SQL
 - Manual Testing
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doom-tech&layout=compact)](https://github.com/doom-tech/github-readme-stats)
 
 ## 💬 Languages
 - Russian — Native
