@@ -1,46 +1,62 @@
-# 👋 Hi, I'm [Doom]
+# 👋 Hi, I'm Doom
 
-## 🔐 Cybersecurity Enthusiast & Ethical Hacker
+## 🔐 Passionate Penetration Tester & Cybersecurity Enthusiast 
 
-I'm passionate about the world of Cybersecurity, Ethical Hacking, and Information Assurance. I believe in the importance of securing digital assets and love coding solutions that make the cyberworld safer for everyone.
+Born on August 4th, 2007, I am a freelance Penetration Tester with over 2 years of diverse experience in the cybersecurity field. My work is my passion, and I thrive on navigating challenging cybersecurity environments for my clients.
 
-![Cyber Security](https://media1.tenor.com/m/KoGb1Xgdxx0AAAAd/hacker-ascii.gif)
+![Cybersecurity](https://media1.tenor.com/m/qxgoeVscCNAAAAAd/corgi-computer.gif)
 
-## 🧠 Skills
+## 🔍 Experience
 
+I have been working on freelance projects for the past three years, focusing on:
+
+- Web Application Testing
+- Mobile Application Security Checking
+- Network Infrastructure Auditing
+- Social Engineering and Phishing Attacks
+- Report Creation and Consultation
+
+## 🧾 Education & Courses
+
+- Secondary: Lyceum "2Ш".
+- Mathematics in Cybersecurity (Kaspersky).
+- Vulnerability Analysis in Web Applications (VKontakte).
+- Operator Red Team (TryHackMe)
+- The Code of the Future (Ministry of Digital Development of the Russian Federation)
+- Mobile Application Development in Java (Samsung)
+
+## 🗝️ Skills
+
+- Linux
+- Ubuntu Server
 - Ethical Hacking
-- Network Security
-- Cryptography
-- Penetration Testing
-- Programming in Python, Java, and C++
+- Python
+- Infosec
+- Docker
+- Git Bash
+- Lua
+- PostgreSQL & SQL
+- Manual Testing
 
-## 🏆 Achievements
+## 💬 Languages
+- Russian — Native
+- English — Upper Intermediate (B2)
 
-- Won 1st place in [VrnCTF]
-- Successfully identified and remediated [5] of vulnerabilities as part of [VK]'s bug bounty program
+## 🎖️ Achievements
 
-## 🎓 Certifications
+- Winner of the All-Russian competition "Create the future".
+- Winner of the National Technological Olympiad, Information Security Profile, 2023.
+- 8th in High school Amateurs CTF.
+- 1st Cup VrnCTF
+- 4th CenterCTF
+- 2nd MiaCTF
 
-- Certified Ethical Hacker (CEH)
-- CompTIA Security+
-
-## 🔭 Projects
-
-I love to learn and grow by getting my hands dirty in realtime projects. Check out my repositories for my range of security-oriented projects and learnings.
-
-## 💬 Ask me about
-
-Feel free to ask me about anything related to Cybersecurity and Ethical Hacking! Love to brainstorm and help others on their cyber journey!
+## 🌐 Online Presence
+- 21st position in Russia's ctftime: [My CTFTIME Team](https://ctftime.org/team/271856)
 
 ## 📫 Connect with me
+- [Telegram](t.me/dontunique)
 - [VK](https://vk.com/doom_tech)
-- [Telegram](https://t.me/dontunique)
 - 📧 Email: doom@fsbtool.ru
 
-## 👨‍💻 Stackoverflow Profile
-[![YourName StackOverflow](https://stackoverflow.com/users/flair/YOUR_STACKOVERFLOW_USERID.png)](https://stackoverflow.com/users/YOUR_STACKOVERFLOW_USERID)
-
-## 🏁 CTFtime Team Profile
-Check out my CTF challenges with my team on [CTFtime](https://ctftime.org/team/271856)
-
-Let's connect and explore opportunities together in Cybersecurity 🌐
+Ready to take a challenging role to aid with my skills and contribute to your projects! Let's connect.
