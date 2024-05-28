@@ -38,7 +38,7 @@ I have been working on freelance projects for the past three years, focusing on:
 - PostgreSQL & SQL
 - Manual Testing
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doom-tech)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doom)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 💬 Languages
 - Russian — Native
