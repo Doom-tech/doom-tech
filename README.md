@@ -31,6 +31,8 @@ I have been working on freelance projects for the past three years, focusing on:
 - Ubuntu Server
 - Ethical Hacking
 - Python
+- C++
+- Haskell
 - Infosec
 - Docker
 - Git Bash
