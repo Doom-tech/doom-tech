@@ -18,7 +18,7 @@ I have been working on freelance projects for the past three years, focusing on:
 
 ## 🧾 Education & Courses
 
-- Secondary: Lyceum "2Ш".
+- Secondary: SESC MSU.
 - Mathematics in Cybersecurity (Kaspersky).
 - Vulnerability Analysis in Web Applications (VKontakte).
 - Operator Red Team (TryHackMe)
